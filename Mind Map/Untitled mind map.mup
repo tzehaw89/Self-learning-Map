@@ -1,0 +1,306 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Learning Item",
+      "id": 1,
+      "attr": {
+        "position": [
+          -48,
+          -21,
+          1
+        ],
+        "style": {
+          "fontMultiplier": 1.25
+        }
+      },
+      "ideas": {
+        "8": {
+          "title": "Programming Language",
+          "id": 17,
+          "ideas": {
+            "1": {
+              "title": "Web",
+              "id": 18,
+              "ideas": {
+                "1": {
+                  "title": "FrontEnd",
+                  "id": 20,
+                  "ideas": {
+                    "1": {
+                      "title": "Angular",
+                      "id": 22
+                    },
+                    "2": {
+                      "title": "React.JS",
+                      "id": 69
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Backend",
+                  "id": 21,
+                  "ideas": {
+                    "1": {
+                      "title": "Nodejs",
+                      "id": 23
+                    },
+                    "2": {
+                      "title": "GO Lang",
+                      "id": 58
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Progressive Web App",
+                  "id": 33,
+                  "ideas": {
+                    "1": {
+                      "title": "Service Worker",
+                      "id": 60
+                    },
+                    "2": {
+                      "title": "Web App manifest",
+                      "id": 64
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Single Page Application",
+                  "id": 41
+                }
+              }
+            },
+            "2": {
+              "title": "Mobile ",
+              "id": 24,
+              "ideas": {
+                "1": {
+                  "title": "React-Native",
+                  "id": 25
+                },
+                "2": {
+                  "title": "Kotlin",
+                  "id": 26,
+                  "ideas": {
+                    "1": {
+                      "title": "Ide Tools",
+                      "id": 38,
+                      "ideas": {
+                        "1": {
+                          "title": "Android Studio",
+                          "id": 39
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "title": "FireBase",
+                  "id": 56
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "Gaming",
+          "id": 42,
+          "ideas": {
+            "1": {
+              "title": "Tools",
+              "id": 43,
+              "ideas": {
+                "1": {
+                  "title": "Unity 3D",
+                  "id": 44
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "title": "Database",
+          "id": 46,
+          "ideas": {
+            "1": {
+              "title": "SQL",
+              "id": 47
+            },
+            "2": {
+              "title": "NoSQL",
+              "id": 48,
+              "ideas": {
+                "1": {
+                  "title": "Neo4J",
+                  "id": 49
+                }
+              }
+            }
+          }
+        },
+        "-5": {
+          "title": "Technology Concept",
+          "id": 27,
+          "ideas": {
+            "1": {
+              "title": "Native App",
+              "id": 28,
+              "attr": {
+                "position": [
+                  257.8333282470703,
+                  -167,
+                  8
+                ]
+              }
+            },
+            "2": {
+              "title": "Hybrid App",
+              "id": 29
+            },
+            "3": {
+              "title": "Instant App",
+              "id": 30,
+              "attr": {
+                "position": [
+                  269.8333282470703,
+                  -120,
+                  4
+                ]
+              }
+            },
+            "4": {
+              "title": "Micro Services",
+              "id": 45,
+              "ideas": {
+                "1": {
+                  "title": "GraphQL",
+                  "id": 57
+                }
+              }
+            },
+            "5": {
+              "title": "Virtual Reality",
+              "id": 50,
+              "attr": {
+                "position": [
+                  274.8333282470703,
+                  -34,
+                  5
+                ]
+              }
+            },
+            "6": {
+              "title": "Augmented Reality",
+              "id": 51,
+              "attr": {
+                "position": [
+                  244.50228881835938,
+                  -26.298587799072266,
+                  12
+                ]
+              }
+            },
+            "7": {
+              "title": "Big Data",
+              "id": 52,
+              "attr": {
+                "position": [
+                  304.8333282470703,
+                  45,
+                  6
+                ]
+              }
+            },
+            "8": {
+              "title": "CI\\CD",
+              "id": 53,
+              "attr": {
+                "position": [
+                  200.50924682617188,
+                  129.1852149963379,
+                  11
+                ],
+                "style": {
+                  "width": 49.9884
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Github",
+                  "id": 65
+                },
+                "2": {
+                  "title": "Jenkins",
+                  "id": 66
+                },
+                "3": {
+                  "title": "AWS opsworks",
+                  "id": 67
+                },
+                "4": {
+                  "title": "Vagrant, Saltstack",
+                  "id": 68
+                }
+              }
+            },
+            "9": {
+              "title": "Agile",
+              "id": 54,
+              "attr": {
+                "position": [
+                  287.23606815429685,
+                  186.15745544433594,
+                  10
+                ],
+                "style": {
+                  "width": 65.2778
+                }
+              }
+            }
+          }
+        },
+        "-6": {
+          "title": "Machine Learning",
+          "id": 31,
+          "ideas": {
+            "1": {
+              "title": "Tensor Flow",
+              "id": 32,
+              "attr": {
+                "position": [
+                  49.83332824707031,
+                  63,
+                  1
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Tensor Processing Unit",
+                  "id": 59
+                }
+              }
+            }
+          }
+        },
+        "-7": {
+          "title": "Third Party API",
+          "id": 61,
+          "ideas": {
+            "1": {
+              "title": "Facebook",
+              "id": 62
+            },
+            "2": {
+              "title": "Google",
+              "id": 63
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "Learning Item",
+  "links": []
+}
